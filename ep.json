@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "extend_settings",
+      "client_hooks": {
+      },
+      "hooks": {
+        "applySettings": "ep_extend_settings/index"
+      }
+    }
+  ]
+}

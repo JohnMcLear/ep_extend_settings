@@ -1,0 +1,23 @@
+{
+  "name":        "ep_extend_settings",
+  "version":     "0.0.1",
+  "description": "Use an additional settings file so you can commit the main setttings.json but keep an additional file with passwords etc uncommited",
+  "contributors": [
+    {
+      "name": "John McLear",
+      "email": "john@mclear.co.uk",
+      "url": "http://mclear.co.uk"
+    }
+  ],
+
+  "repository" : {
+    "type": "git",
+    "url":  "git://github.com/johnmclear/ep_extend_settings.git"
+  },
+
+  "dependencies": {},
+
+  "engines": {
+    "node": "*"
+  }
+}
