@@ -1,6 +1,6 @@
 {
   "name": "ep_extend_settings",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Use an additional settings file so you can commit the main setttings.json but keep an additional file with passwords etc uncommited",
   "contributors": [
     {
